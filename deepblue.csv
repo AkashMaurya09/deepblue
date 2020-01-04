@@ -1,4 +1,4 @@
-"'Number in the queue/DeptNumber'"," 'Shift (M/A/E)'"," 'Queue Type (Reg'","'Created Queue Hours'"," 'Created Queue Day of Week'"," 'Waiting Duration'"," 'Number of Waiting Queue'"," 'Arrival Rate'"," 'Service Rate'"
+"Number in the queue/DeptNumber"," Shift (M/A/E)"," Queue Type (Reg","Created Queue Hours"," Created Queue Day of Week"," Waiting Duration"," Number of Waiting Queue"," Arrival Rate"," Service Rate"
 "101","1","01/01/2020","8","1","0.08","0","4","2"
 "101","1","01/01/2020","8","1","0.14","1","4","2"
 "101","1","01/01/2020","8","1","0.21","2","4","1"
